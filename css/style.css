@@ -1,10 +1,9 @@
 @charset "UTF-8";
 /*
-Template Name: Bolby
+Template Name: Avishkar Patil Site
 Version: 1.0
-Author: PxlSolutions
-Author URI: http://themeforest.net/user/pxlsolutions
-Description: Portfolio/CV/Resume HTML Template
+Author: Avishkar Patil
+Author URI: https://avipatilweb.me/
 
 [TABLE OF CONTENTS]
 
@@ -1832,7 +1831,7 @@ body.dark .blog-item .details h4.title a:hover {
   color: #FF4C60;
 }
 body.dark .contact-info {
-  background-image: url("../images/map-light.png");
+  background-image: url("../images/map-light.svg");
 }
 body.dark .white-popup {
   background: #302f4e;
