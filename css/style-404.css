@@ -1,9 +1,4 @@
-/*
-VIEW IN FULL SCREEN MODE
-FULL SCREEN MODE: http://salehriaz.com/404Page/404.html
 
-DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
-*/
 
 @import url('https://fonts.googleapis.com/css?family=Dosis:300,400,500');
 
@@ -232,7 +227,7 @@ li a:hover {
 }
 
 .stars{
-    background: url(http://salehriaz.com/404Page/img/overlay_stars.svg);
+    background: url(../img-404/overlay_stars.svg);
     background-repeat: repeat;
     background-size: contain;
     background-position: left top;
